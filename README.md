@@ -9,8 +9,10 @@ These scripts will recreate the analyses shown in the publication listed below. 
 
 ## Associated publication:
 https://doi.org/10.1111/mec.17811
+
 The genomic sequences analyzed in this article are stored and accessible through the National Center for Biotechnology Information (NCBI) under https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1105729.
 
 ## Raw and metadata in dryad
 Dryad data deposition: https://doi.org/10.5061/dryad.280gb5n0x
+
 The archive.tar.gz contains a combination of raw and metadata.
