@@ -1,14 +1,7 @@
-# Scripts for: Soil and Herbivory Alters Genomic Adaptation to Bumblebee Pollination 
-We used genomic and phenotypic data to better understand how ecological factors affect genomic divergence between three factors: soil, herbivory, and pollination. 
-
-The genomic sequences analyzed in this article are stored and accessible through the National Center for Biotechnology Information (NCBI) under https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1105729. 
-
-R scripts and metadata are stored on dryad: https://doi.org/10.5061/dryad.280gb5n0x
-
 # Description of the data and file structure
 These scripts will recreate the analyses shown in the publication. The heading numbers are based on the material methods section. Within in the folders, scripts are structured numerically. Thus, 1_ is first, 2_ is second and so on. You may need to change the working directory to rerun the scripts. 
 
-The archive.tar.gz contains a combination of raw and metadata. Please see PLINK, EMMAX and the manuscript or supplement for further documentation.
+Please see PLINK, EMMAX and the manuscript or supplement for further documentation if needed.
 
 ## Treatment info 
 Soil: L = limestone soil
@@ -203,4 +196,5 @@ contains whether the genomic region is significant and associates with phenotypi
 
 # Sharing/Access information
 The raw phenotypic and genomic reads data used in this publication is published in a previous study. 
+
 Genomic metadata from this publication is generated for this publication. 
