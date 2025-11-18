@@ -5,8 +5,6 @@ Scripts for publication: Bumblebee Pollination and Herbivory Alter Genomic Adapt
 We used genomic and phenotypic data to better understand how ecological factors affect genomic divergence between three factors: soil, herbivory, and pollination.
 More specifically, we run genetic PCAs, Fst pairwise tests, selection scans, genome-wide association scans with phenotypic traits, candidate gene associations, and build pleiotropic networks.  
 
-These scripts will recreate the analyses shown in the publication listed below. The heading numbers are based on the material methods section. Within the folders, scripts are structured numerically. Thus, 1_ is first, 2_ is second, and so on. You may need to change the working directory to rerun the scripts.
-
 ## Associated publication:
 https://doi.org/10.1111/mec.17811
 
